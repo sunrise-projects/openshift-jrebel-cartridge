@@ -1,0 +1,19 @@
+Name: jrebel
+Cartridge-Short-Name: JREBEL
+Display-Name: JRebel by ZeroTurnaround
+Description: Reload Code Changes Instantly
+License: Commercial
+Version: '5.6'
+License-Url: http://zeroturnaround.com/software/jrebel/buy/
+Vendor: zeroturnaround
+Cartridge-Version: 1.0.0
+Cartridge-Vendor: zeroturnaround
+Categories:
+- plugin
+- embedded
+Website: http://zeroturnaround.com/software/jrebel/
+Help-Topics:
+  Developer Center: https://developers.openshift.com
+Provides:
+- jrebel-5.6
+- jrebel
